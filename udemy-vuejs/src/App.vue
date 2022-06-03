@@ -17,6 +17,6 @@ export default {
 
 <style scoped>
 div {
-  border: 1px, solid, blue;
+  border: 1px solid blue;
 }
 </style>

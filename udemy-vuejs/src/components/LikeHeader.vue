@@ -1,5 +1,19 @@
 <template>
     <div>
-        <h1>いいね</h1>
+        <slot></slot>
     </div>
 </template>
+
+<script>
+export default {
+    data() {
+        return {
+            user: {
+                firstName: "Jack",
+                lastName: "Donald"
+            }
+        }
+        
+    }
+};
+</script>

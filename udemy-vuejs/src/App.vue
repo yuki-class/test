@@ -79,7 +79,7 @@ export default {
     AboutVue,
     HomeVue,
     EventTitle
-},
+  },
   methods: {
     incrementNumber(value) {
       this.number = value;

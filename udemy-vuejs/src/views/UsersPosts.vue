@@ -1,6 +1,5 @@
 <template>
     <div>
-        <p>About</p>
-        <input>
+        <h2>ユーザーの投稿</h2>
     </div>
 </template>
